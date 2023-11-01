@@ -1,7 +1,7 @@
 # Методологии программной инженерии
 
 # Содержание
-* [Главная](https://github.com/WrapAndKit/software_engineering/new/main/README.md)
+* [Главная](https://github.com/WrapAndKit/software_engineering/blob/main/README.md)
 * [Вспомогательный материал]
 * [Практическое задание №1 - Видение]
 * [Практическое задание №2 - Требования]
