@@ -4,7 +4,7 @@
 * [Главная](https://github.com/WrapAndKit/software_engineering/blob/main/README.md)
 * [Вспомогательный материал](https://github.com/WrapAndKit/software_engineering/blob/main/support.md)
 * [Практическое задание №1 - Видение](https://github.com/WrapAndKit/software_engineering/blob/main/practice_1.md)
-* [Практическое задание №2 - Требования]
+* [Практическое задание №2 - Требования](https://github.com/WrapAndKit/software_engineering/blob/main/practice_2.md)
 * [Практическое задание №3 - Проект]
 * [Практическое задание №4 - Тестирование]
 * [Финальное задание]
