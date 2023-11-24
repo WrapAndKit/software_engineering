@@ -24,6 +24,8 @@
 - [Различия между MVVM и остальными MV*-паттернами](https://habr.com/ru/companies/mobileup/articles/313538/)
 - [Анти-паттерны](https://habr.com/ru/articles/59005/)
 - [Анти-паттерн Wiki](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD)
+- [Plant синтаксис](https://plantuml.com/ru/)
+- [Plant редактор](https://www.planttext.com/)
 5) Общие вспомогательные материалы
 - [Глоссарий владельца продукта](https://scrumtrek.ru/blog/product-management/product-glossary/)
 - [Rational.](https://dit.isuct.ru/Publish_RUP/index.htm#core.base_rup/domains/rup_domains_79F532D2.html)
