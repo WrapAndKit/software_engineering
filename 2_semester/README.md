@@ -3,8 +3,8 @@
 # Содержание
 * [Главная](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/README.md)
 * [Вспомогательный материал](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/support.md)
-* [Практическое задание №1 - Видение](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/practice_1.md)
-* [Практическое задание №2 - Требования](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/practice_2.md)
+* [Практическое задание №1](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/practice_1.md)
+* [Практическое задание №2](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/practice_2.md)
 * [Вопросы к зачету](https://github.com/WrapAndKit/software_engineering/blob/main/2_semester/questions.md)
 # Зачет
 Для успешного освоения курса необходимо:
