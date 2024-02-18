@@ -1,12 +1,12 @@
 # Методологии программной инженерии
 
 # Содержание
-* [Главная](https://github.com/WrapAndKit/software_engineering/blob/main/README.md)
-* [Вспомогательный материал](https://github.com/WrapAndKit/software_engineering/blob/main/support.md)
-* [Практическое задание №1 - Видение](https://github.com/WrapAndKit/software_engineering/blob/main/practice_1.md)
-* [Практическое задание №2 - Требования](https://github.com/WrapAndKit/software_engineering/blob/main/practice_2.md)
-* [Практическое задание №3 - Проект](https://github.com/WrapAndKit/software_engineering/blob/main/practice_3.md)
-* [Вопросы к зачету](https://github.com/WrapAndKit/software_engineering/blob/main/questions.md)
+* [Главная](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/README.md)
+* [Вспомогательный материал](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/support.md)
+* [Практическое задание №1 - Видение](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/practice_1.md)
+* [Практическое задание №2 - Требования](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/practice_2.md)
+* [Практическое задание №3 - Проект](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/practice_3.md)
+* [Вопросы к зачету](https://github.com/WrapAndKit/software_engineering/blob/main/1_semester/questions.md)
 # Зачет
 Для успешного освоения курса необходимо:
 
